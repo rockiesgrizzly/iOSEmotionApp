@@ -1,2 +1,2 @@
-# iosNotesApp
-an example Notes app with full-stack server support
+# iOS Budget App
+an example Budget app with full-stack server support
